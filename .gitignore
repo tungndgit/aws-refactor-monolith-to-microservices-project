@@ -20,6 +20,9 @@ npm-debug.log*
 .versions/
 coverage/
 www/
+udagram-api-user/node_modules/
+udagram-api-feed/node_modules/
+udagram-frontend/node_modules/
 node_modules/
 tmp/
 temp/
